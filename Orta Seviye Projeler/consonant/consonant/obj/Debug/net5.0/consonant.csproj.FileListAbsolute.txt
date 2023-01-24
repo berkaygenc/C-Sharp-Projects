@@ -1,0 +1,16 @@
+C:\Users\ilkay\OneDrive\Masaüstü\myapp\consonant\consonant\bin\Debug\net5.0\consonant.exe
+C:\Users\ilkay\OneDrive\Masaüstü\myapp\consonant\consonant\bin\Debug\net5.0\consonant.deps.json
+C:\Users\ilkay\OneDrive\Masaüstü\myapp\consonant\consonant\bin\Debug\net5.0\consonant.runtimeconfig.json
+C:\Users\ilkay\OneDrive\Masaüstü\myapp\consonant\consonant\bin\Debug\net5.0\consonant.runtimeconfig.dev.json
+C:\Users\ilkay\OneDrive\Masaüstü\myapp\consonant\consonant\bin\Debug\net5.0\consonant.dll
+C:\Users\ilkay\OneDrive\Masaüstü\myapp\consonant\consonant\bin\Debug\net5.0\consonant.pdb
+C:\Users\ilkay\OneDrive\Masaüstü\myapp\consonant\consonant\obj\Debug\net5.0\consonant.csproj.AssemblyReference.cache
+C:\Users\ilkay\OneDrive\Masaüstü\myapp\consonant\consonant\obj\Debug\net5.0\consonant.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilkay\OneDrive\Masaüstü\myapp\consonant\consonant\obj\Debug\net5.0\consonant.AssemblyInfoInputs.cache
+C:\Users\ilkay\OneDrive\Masaüstü\myapp\consonant\consonant\obj\Debug\net5.0\consonant.AssemblyInfo.cs
+C:\Users\ilkay\OneDrive\Masaüstü\myapp\consonant\consonant\obj\Debug\net5.0\consonant.csproj.CoreCompileInputs.cache
+C:\Users\ilkay\OneDrive\Masaüstü\myapp\consonant\consonant\obj\Debug\net5.0\consonant.dll
+C:\Users\ilkay\OneDrive\Masaüstü\myapp\consonant\consonant\obj\Debug\net5.0\refint\consonant.dll
+C:\Users\ilkay\OneDrive\Masaüstü\myapp\consonant\consonant\obj\Debug\net5.0\consonant.pdb
+C:\Users\ilkay\OneDrive\Masaüstü\myapp\consonant\consonant\obj\Debug\net5.0\consonant.genruntimeconfig.cache
+C:\Users\ilkay\OneDrive\Masaüstü\myapp\consonant\consonant\obj\Debug\net5.0\ref\consonant.dll

@@ -1,0 +1,12 @@
+
+Hesabınıza hatalı giriş denemesi yapıldı!!!
+--------------------------------------------------------------
+
+Hesabınıza hatalı giriş denemesi yapıldı!!!
+--------------------------------------------------------------
+Gün Sonu Logları
+----------------
+
+ #Kullanıcı Adı :  berkaygnc
+ - Çekilen Para : 1000
+ - Kalan Tutar : 4000

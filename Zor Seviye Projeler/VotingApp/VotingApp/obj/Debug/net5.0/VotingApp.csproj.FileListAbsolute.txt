@@ -1,0 +1,16 @@
+C:\Users\ilkay\OneDrive\Masaüstü\myapp\VotingApp\VotingApp\obj\Debug\net5.0\VotingApp.csproj.AssemblyReference.cache
+C:\Users\ilkay\OneDrive\Masaüstü\myapp\VotingApp\VotingApp\obj\Debug\net5.0\VotingApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilkay\OneDrive\Masaüstü\myapp\VotingApp\VotingApp\obj\Debug\net5.0\VotingApp.AssemblyInfoInputs.cache
+C:\Users\ilkay\OneDrive\Masaüstü\myapp\VotingApp\VotingApp\obj\Debug\net5.0\VotingApp.AssemblyInfo.cs
+C:\Users\ilkay\OneDrive\Masaüstü\myapp\VotingApp\VotingApp\obj\Debug\net5.0\VotingApp.csproj.CoreCompileInputs.cache
+C:\Users\ilkay\OneDrive\Masaüstü\myapp\VotingApp\VotingApp\bin\Debug\net5.0\VotingApp.exe
+C:\Users\ilkay\OneDrive\Masaüstü\myapp\VotingApp\VotingApp\bin\Debug\net5.0\VotingApp.deps.json
+C:\Users\ilkay\OneDrive\Masaüstü\myapp\VotingApp\VotingApp\bin\Debug\net5.0\VotingApp.runtimeconfig.json
+C:\Users\ilkay\OneDrive\Masaüstü\myapp\VotingApp\VotingApp\bin\Debug\net5.0\VotingApp.runtimeconfig.dev.json
+C:\Users\ilkay\OneDrive\Masaüstü\myapp\VotingApp\VotingApp\bin\Debug\net5.0\VotingApp.dll
+C:\Users\ilkay\OneDrive\Masaüstü\myapp\VotingApp\VotingApp\bin\Debug\net5.0\VotingApp.pdb
+C:\Users\ilkay\OneDrive\Masaüstü\myapp\VotingApp\VotingApp\obj\Debug\net5.0\VotingApp.dll
+C:\Users\ilkay\OneDrive\Masaüstü\myapp\VotingApp\VotingApp\obj\Debug\net5.0\refint\VotingApp.dll
+C:\Users\ilkay\OneDrive\Masaüstü\myapp\VotingApp\VotingApp\obj\Debug\net5.0\VotingApp.pdb
+C:\Users\ilkay\OneDrive\Masaüstü\myapp\VotingApp\VotingApp\obj\Debug\net5.0\VotingApp.genruntimeconfig.cache
+C:\Users\ilkay\OneDrive\Masaüstü\myapp\VotingApp\VotingApp\obj\Debug\net5.0\ref\VotingApp.dll

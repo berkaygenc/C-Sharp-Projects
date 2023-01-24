@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "fibonacci_average_calculate/1.0.0": {
+        "runtime": {
+          "fibonacci_average_calculate.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "fibonacci_average_calculate/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

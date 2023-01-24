@@ -1,0 +1,16 @@
+C:\Users\ilkay\OneDrive\Masaüstü\myapp\ATM_App\ATM_App\bin\Debug\net5.0\ATM_App.exe
+C:\Users\ilkay\OneDrive\Masaüstü\myapp\ATM_App\ATM_App\bin\Debug\net5.0\ATM_App.deps.json
+C:\Users\ilkay\OneDrive\Masaüstü\myapp\ATM_App\ATM_App\bin\Debug\net5.0\ATM_App.runtimeconfig.json
+C:\Users\ilkay\OneDrive\Masaüstü\myapp\ATM_App\ATM_App\bin\Debug\net5.0\ATM_App.runtimeconfig.dev.json
+C:\Users\ilkay\OneDrive\Masaüstü\myapp\ATM_App\ATM_App\bin\Debug\net5.0\ATM_App.dll
+C:\Users\ilkay\OneDrive\Masaüstü\myapp\ATM_App\ATM_App\bin\Debug\net5.0\ATM_App.pdb
+C:\Users\ilkay\OneDrive\Masaüstü\myapp\ATM_App\ATM_App\obj\Debug\net5.0\ATM_App.csproj.AssemblyReference.cache
+C:\Users\ilkay\OneDrive\Masaüstü\myapp\ATM_App\ATM_App\obj\Debug\net5.0\ATM_App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilkay\OneDrive\Masaüstü\myapp\ATM_App\ATM_App\obj\Debug\net5.0\ATM_App.AssemblyInfoInputs.cache
+C:\Users\ilkay\OneDrive\Masaüstü\myapp\ATM_App\ATM_App\obj\Debug\net5.0\ATM_App.AssemblyInfo.cs
+C:\Users\ilkay\OneDrive\Masaüstü\myapp\ATM_App\ATM_App\obj\Debug\net5.0\ATM_App.csproj.CoreCompileInputs.cache
+C:\Users\ilkay\OneDrive\Masaüstü\myapp\ATM_App\ATM_App\obj\Debug\net5.0\ATM_App.dll
+C:\Users\ilkay\OneDrive\Masaüstü\myapp\ATM_App\ATM_App\obj\Debug\net5.0\refint\ATM_App.dll
+C:\Users\ilkay\OneDrive\Masaüstü\myapp\ATM_App\ATM_App\obj\Debug\net5.0\ATM_App.pdb
+C:\Users\ilkay\OneDrive\Masaüstü\myapp\ATM_App\ATM_App\obj\Debug\net5.0\ATM_App.genruntimeconfig.cache
+C:\Users\ilkay\OneDrive\Masaüstü\myapp\ATM_App\ATM_App\obj\Debug\net5.0\ref\ATM_App.dll

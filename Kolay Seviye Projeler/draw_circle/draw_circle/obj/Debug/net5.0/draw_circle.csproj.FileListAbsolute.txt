@@ -1,0 +1,32 @@
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\C# Projeleri\draw_circle\draw_circle\bin\Debug\net5.0\draw_circle.exe
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\C# Projeleri\draw_circle\draw_circle\bin\Debug\net5.0\draw_circle.deps.json
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\C# Projeleri\draw_circle\draw_circle\bin\Debug\net5.0\draw_circle.runtimeconfig.json
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\C# Projeleri\draw_circle\draw_circle\bin\Debug\net5.0\draw_circle.runtimeconfig.dev.json
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\C# Projeleri\draw_circle\draw_circle\bin\Debug\net5.0\draw_circle.dll
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\C# Projeleri\draw_circle\draw_circle\bin\Debug\net5.0\draw_circle.pdb
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\C# Projeleri\draw_circle\draw_circle\obj\Debug\net5.0\draw_circle.csproj.AssemblyReference.cache
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\C# Projeleri\draw_circle\draw_circle\obj\Debug\net5.0\draw_circle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\C# Projeleri\draw_circle\draw_circle\obj\Debug\net5.0\draw_circle.AssemblyInfoInputs.cache
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\C# Projeleri\draw_circle\draw_circle\obj\Debug\net5.0\draw_circle.AssemblyInfo.cs
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\C# Projeleri\draw_circle\draw_circle\obj\Debug\net5.0\draw_circle.csproj.CoreCompileInputs.cache
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\C# Projeleri\draw_circle\draw_circle\obj\Debug\net5.0\draw_circle.dll
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\C# Projeleri\draw_circle\draw_circle\obj\Debug\net5.0\refint\draw_circle.dll
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\C# Projeleri\draw_circle\draw_circle\obj\Debug\net5.0\draw_circle.pdb
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\C# Projeleri\draw_circle\draw_circle\obj\Debug\net5.0\draw_circle.genruntimeconfig.cache
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\C# Projeleri\draw_circle\draw_circle\obj\Debug\net5.0\ref\draw_circle.dll
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\C# Projeleri\Kolay Seviye Projeler\draw_circle\draw_circle\bin\Debug\net5.0\draw_circle.exe
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\C# Projeleri\Kolay Seviye Projeler\draw_circle\draw_circle\bin\Debug\net5.0\draw_circle.deps.json
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\C# Projeleri\Kolay Seviye Projeler\draw_circle\draw_circle\bin\Debug\net5.0\draw_circle.runtimeconfig.json
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\C# Projeleri\Kolay Seviye Projeler\draw_circle\draw_circle\bin\Debug\net5.0\draw_circle.runtimeconfig.dev.json
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\C# Projeleri\Kolay Seviye Projeler\draw_circle\draw_circle\bin\Debug\net5.0\draw_circle.dll
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\C# Projeleri\Kolay Seviye Projeler\draw_circle\draw_circle\bin\Debug\net5.0\draw_circle.pdb
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\C# Projeleri\Kolay Seviye Projeler\draw_circle\draw_circle\obj\Debug\net5.0\draw_circle.csproj.AssemblyReference.cache
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\C# Projeleri\Kolay Seviye Projeler\draw_circle\draw_circle\obj\Debug\net5.0\draw_circle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\C# Projeleri\Kolay Seviye Projeler\draw_circle\draw_circle\obj\Debug\net5.0\draw_circle.AssemblyInfoInputs.cache
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\C# Projeleri\Kolay Seviye Projeler\draw_circle\draw_circle\obj\Debug\net5.0\draw_circle.AssemblyInfo.cs
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\C# Projeleri\Kolay Seviye Projeler\draw_circle\draw_circle\obj\Debug\net5.0\draw_circle.csproj.CoreCompileInputs.cache
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\C# Projeleri\Kolay Seviye Projeler\draw_circle\draw_circle\obj\Debug\net5.0\draw_circle.dll
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\C# Projeleri\Kolay Seviye Projeler\draw_circle\draw_circle\obj\Debug\net5.0\refint\draw_circle.dll
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\C# Projeleri\Kolay Seviye Projeler\draw_circle\draw_circle\obj\Debug\net5.0\draw_circle.pdb
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\C# Projeleri\Kolay Seviye Projeler\draw_circle\draw_circle\obj\Debug\net5.0\draw_circle.genruntimeconfig.cache
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\C# Projeleri\Kolay Seviye Projeler\draw_circle\draw_circle\obj\Debug\net5.0\ref\draw_circle.dll

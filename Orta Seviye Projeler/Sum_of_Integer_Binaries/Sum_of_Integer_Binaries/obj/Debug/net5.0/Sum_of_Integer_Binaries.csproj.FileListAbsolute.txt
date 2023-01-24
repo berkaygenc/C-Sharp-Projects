@@ -1,0 +1,16 @@
+C:\Users\ilkay\OneDrive\Masaüstü\myapp\Sum_of_Integer_Binaries\Sum_of_Integer_Binaries\bin\Debug\net5.0\Sum_of_Integer_Binaries.exe
+C:\Users\ilkay\OneDrive\Masaüstü\myapp\Sum_of_Integer_Binaries\Sum_of_Integer_Binaries\bin\Debug\net5.0\Sum_of_Integer_Binaries.deps.json
+C:\Users\ilkay\OneDrive\Masaüstü\myapp\Sum_of_Integer_Binaries\Sum_of_Integer_Binaries\bin\Debug\net5.0\Sum_of_Integer_Binaries.runtimeconfig.json
+C:\Users\ilkay\OneDrive\Masaüstü\myapp\Sum_of_Integer_Binaries\Sum_of_Integer_Binaries\bin\Debug\net5.0\Sum_of_Integer_Binaries.runtimeconfig.dev.json
+C:\Users\ilkay\OneDrive\Masaüstü\myapp\Sum_of_Integer_Binaries\Sum_of_Integer_Binaries\bin\Debug\net5.0\Sum_of_Integer_Binaries.dll
+C:\Users\ilkay\OneDrive\Masaüstü\myapp\Sum_of_Integer_Binaries\Sum_of_Integer_Binaries\bin\Debug\net5.0\Sum_of_Integer_Binaries.pdb
+C:\Users\ilkay\OneDrive\Masaüstü\myapp\Sum_of_Integer_Binaries\Sum_of_Integer_Binaries\obj\Debug\net5.0\Sum_of_Integer_Binaries.csproj.AssemblyReference.cache
+C:\Users\ilkay\OneDrive\Masaüstü\myapp\Sum_of_Integer_Binaries\Sum_of_Integer_Binaries\obj\Debug\net5.0\Sum_of_Integer_Binaries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilkay\OneDrive\Masaüstü\myapp\Sum_of_Integer_Binaries\Sum_of_Integer_Binaries\obj\Debug\net5.0\Sum_of_Integer_Binaries.AssemblyInfoInputs.cache
+C:\Users\ilkay\OneDrive\Masaüstü\myapp\Sum_of_Integer_Binaries\Sum_of_Integer_Binaries\obj\Debug\net5.0\Sum_of_Integer_Binaries.AssemblyInfo.cs
+C:\Users\ilkay\OneDrive\Masaüstü\myapp\Sum_of_Integer_Binaries\Sum_of_Integer_Binaries\obj\Debug\net5.0\Sum_of_Integer_Binaries.csproj.CoreCompileInputs.cache
+C:\Users\ilkay\OneDrive\Masaüstü\myapp\Sum_of_Integer_Binaries\Sum_of_Integer_Binaries\obj\Debug\net5.0\Sum_of_Integer_Binaries.dll
+C:\Users\ilkay\OneDrive\Masaüstü\myapp\Sum_of_Integer_Binaries\Sum_of_Integer_Binaries\obj\Debug\net5.0\refint\Sum_of_Integer_Binaries.dll
+C:\Users\ilkay\OneDrive\Masaüstü\myapp\Sum_of_Integer_Binaries\Sum_of_Integer_Binaries\obj\Debug\net5.0\Sum_of_Integer_Binaries.pdb
+C:\Users\ilkay\OneDrive\Masaüstü\myapp\Sum_of_Integer_Binaries\Sum_of_Integer_Binaries\obj\Debug\net5.0\Sum_of_Integer_Binaries.genruntimeconfig.cache
+C:\Users\ilkay\OneDrive\Masaüstü\myapp\Sum_of_Integer_Binaries\Sum_of_Integer_Binaries\obj\Debug\net5.0\ref\Sum_of_Integer_Binaries.dll

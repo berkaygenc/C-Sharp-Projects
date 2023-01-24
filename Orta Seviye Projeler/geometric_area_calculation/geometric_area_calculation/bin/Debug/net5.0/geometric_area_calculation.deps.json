@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "geometric_area_calculation/1.0.0": {
+        "runtime": {
+          "geometric_area_calculation.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "geometric_area_calculation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

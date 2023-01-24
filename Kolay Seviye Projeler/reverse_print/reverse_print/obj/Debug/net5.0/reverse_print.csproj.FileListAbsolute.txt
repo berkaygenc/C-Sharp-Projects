@@ -1,0 +1,16 @@
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\C# Projeleri\reverse_print\reverse_print\bin\Debug\net5.0\reverse_print.exe
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\C# Projeleri\reverse_print\reverse_print\bin\Debug\net5.0\reverse_print.deps.json
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\C# Projeleri\reverse_print\reverse_print\bin\Debug\net5.0\reverse_print.runtimeconfig.json
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\C# Projeleri\reverse_print\reverse_print\bin\Debug\net5.0\reverse_print.runtimeconfig.dev.json
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\C# Projeleri\reverse_print\reverse_print\bin\Debug\net5.0\reverse_print.dll
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\C# Projeleri\reverse_print\reverse_print\bin\Debug\net5.0\reverse_print.pdb
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\C# Projeleri\reverse_print\reverse_print\obj\Debug\net5.0\reverse_print.csproj.AssemblyReference.cache
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\C# Projeleri\reverse_print\reverse_print\obj\Debug\net5.0\reverse_print.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\C# Projeleri\reverse_print\reverse_print\obj\Debug\net5.0\reverse_print.AssemblyInfoInputs.cache
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\C# Projeleri\reverse_print\reverse_print\obj\Debug\net5.0\reverse_print.AssemblyInfo.cs
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\C# Projeleri\reverse_print\reverse_print\obj\Debug\net5.0\reverse_print.csproj.CoreCompileInputs.cache
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\C# Projeleri\reverse_print\reverse_print\obj\Debug\net5.0\reverse_print.dll
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\C# Projeleri\reverse_print\reverse_print\obj\Debug\net5.0\refint\reverse_print.dll
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\C# Projeleri\reverse_print\reverse_print\obj\Debug\net5.0\reverse_print.pdb
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\C# Projeleri\reverse_print\reverse_print\obj\Debug\net5.0\reverse_print.genruntimeconfig.cache
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\C# Projeleri\reverse_print\reverse_print\obj\Debug\net5.0\ref\reverse_print.dll

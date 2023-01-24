@@ -1,0 +1,16 @@
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\C# Projeleri\algorithm\algorithm\bin\Debug\net5.0\algorithm.exe
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\C# Projeleri\algorithm\algorithm\bin\Debug\net5.0\algorithm.deps.json
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\C# Projeleri\algorithm\algorithm\bin\Debug\net5.0\algorithm.runtimeconfig.json
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\C# Projeleri\algorithm\algorithm\bin\Debug\net5.0\algorithm.runtimeconfig.dev.json
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\C# Projeleri\algorithm\algorithm\bin\Debug\net5.0\algorithm.dll
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\C# Projeleri\algorithm\algorithm\bin\Debug\net5.0\algorithm.pdb
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\C# Projeleri\algorithm\algorithm\obj\Debug\net5.0\algorithm.csproj.AssemblyReference.cache
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\C# Projeleri\algorithm\algorithm\obj\Debug\net5.0\algorithm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\C# Projeleri\algorithm\algorithm\obj\Debug\net5.0\algorithm.AssemblyInfoInputs.cache
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\C# Projeleri\algorithm\algorithm\obj\Debug\net5.0\algorithm.AssemblyInfo.cs
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\C# Projeleri\algorithm\algorithm\obj\Debug\net5.0\algorithm.csproj.CoreCompileInputs.cache
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\C# Projeleri\algorithm\algorithm\obj\Debug\net5.0\algorithm.dll
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\C# Projeleri\algorithm\algorithm\obj\Debug\net5.0\refint\algorithm.dll
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\C# Projeleri\algorithm\algorithm\obj\Debug\net5.0\algorithm.pdb
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\C# Projeleri\algorithm\algorithm\obj\Debug\net5.0\algorithm.genruntimeconfig.cache
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\C# Projeleri\algorithm\algorithm\obj\Debug\net5.0\ref\algorithm.dll

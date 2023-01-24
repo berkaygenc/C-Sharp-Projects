@@ -1,0 +1,16 @@
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\C# Projeleri\draw_triangle\draw_triangle\bin\Debug\net5.0\draw_triangle.exe
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\C# Projeleri\draw_triangle\draw_triangle\bin\Debug\net5.0\draw_triangle.deps.json
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\C# Projeleri\draw_triangle\draw_triangle\bin\Debug\net5.0\draw_triangle.runtimeconfig.json
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\C# Projeleri\draw_triangle\draw_triangle\bin\Debug\net5.0\draw_triangle.runtimeconfig.dev.json
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\C# Projeleri\draw_triangle\draw_triangle\bin\Debug\net5.0\draw_triangle.dll
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\C# Projeleri\draw_triangle\draw_triangle\bin\Debug\net5.0\draw_triangle.pdb
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\C# Projeleri\draw_triangle\draw_triangle\obj\Debug\net5.0\draw_triangle.csproj.AssemblyReference.cache
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\C# Projeleri\draw_triangle\draw_triangle\obj\Debug\net5.0\draw_triangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\C# Projeleri\draw_triangle\draw_triangle\obj\Debug\net5.0\draw_triangle.AssemblyInfoInputs.cache
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\C# Projeleri\draw_triangle\draw_triangle\obj\Debug\net5.0\draw_triangle.AssemblyInfo.cs
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\C# Projeleri\draw_triangle\draw_triangle\obj\Debug\net5.0\draw_triangle.csproj.CoreCompileInputs.cache
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\C# Projeleri\draw_triangle\draw_triangle\obj\Debug\net5.0\draw_triangle.dll
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\C# Projeleri\draw_triangle\draw_triangle\obj\Debug\net5.0\refint\draw_triangle.dll
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\C# Projeleri\draw_triangle\draw_triangle\obj\Debug\net5.0\draw_triangle.pdb
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\C# Projeleri\draw_triangle\draw_triangle\obj\Debug\net5.0\draw_triangle.genruntimeconfig.cache
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\C# Projeleri\draw_triangle\draw_triangle\obj\Debug\net5.0\ref\draw_triangle.dll

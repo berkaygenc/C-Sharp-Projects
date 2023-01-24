@@ -1,0 +1,16 @@
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\C# Projeleri\geometric_area_calculation\geometric_area_calculation\bin\Debug\net5.0\geometric_area_calculation.exe
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\C# Projeleri\geometric_area_calculation\geometric_area_calculation\bin\Debug\net5.0\geometric_area_calculation.deps.json
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\C# Projeleri\geometric_area_calculation\geometric_area_calculation\bin\Debug\net5.0\geometric_area_calculation.runtimeconfig.json
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\C# Projeleri\geometric_area_calculation\geometric_area_calculation\bin\Debug\net5.0\geometric_area_calculation.runtimeconfig.dev.json
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\C# Projeleri\geometric_area_calculation\geometric_area_calculation\bin\Debug\net5.0\geometric_area_calculation.dll
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\C# Projeleri\geometric_area_calculation\geometric_area_calculation\bin\Debug\net5.0\geometric_area_calculation.pdb
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\C# Projeleri\geometric_area_calculation\geometric_area_calculation\obj\Debug\net5.0\geometric_area_calculation.csproj.AssemblyReference.cache
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\C# Projeleri\geometric_area_calculation\geometric_area_calculation\obj\Debug\net5.0\geometric_area_calculation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\C# Projeleri\geometric_area_calculation\geometric_area_calculation\obj\Debug\net5.0\geometric_area_calculation.AssemblyInfoInputs.cache
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\C# Projeleri\geometric_area_calculation\geometric_area_calculation\obj\Debug\net5.0\geometric_area_calculation.AssemblyInfo.cs
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\C# Projeleri\geometric_area_calculation\geometric_area_calculation\obj\Debug\net5.0\geometric_area_calculation.csproj.CoreCompileInputs.cache
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\C# Projeleri\geometric_area_calculation\geometric_area_calculation\obj\Debug\net5.0\geometric_area_calculation.dll
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\C# Projeleri\geometric_area_calculation\geometric_area_calculation\obj\Debug\net5.0\refint\geometric_area_calculation.dll
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\C# Projeleri\geometric_area_calculation\geometric_area_calculation\obj\Debug\net5.0\geometric_area_calculation.pdb
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\C# Projeleri\geometric_area_calculation\geometric_area_calculation\obj\Debug\net5.0\geometric_area_calculation.genruntimeconfig.cache
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\C# Projeleri\geometric_area_calculation\geometric_area_calculation\obj\Debug\net5.0\ref\geometric_area_calculation.dll
